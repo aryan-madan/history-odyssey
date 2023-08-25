@@ -1,5 +1,12 @@
+@font-face {
+  font-family: 'Pixellari';
+  src: url('https://github.com/aryan-madan/history-odyssey/blob/main/Pixellari.ttf') format('ttf');
+  font-weight: normal;
+  font-style: normal;
+}
+
 body {
-    font-family: Pixellari, sans-serif;
+    font-family: 'Pixellari', sans-serif;
     background-image: url('https://media.discordapp.net/attachments/1144514517586411582/1144517101491597322/Untitled_design_1.png');
     background-repeat: no-repeat;
     background-size: 100%, 100%;
