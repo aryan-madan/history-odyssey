@@ -1,0 +1,46 @@
+body {
+    font-family: Pixellari, sans-serif;
+    background-color: white;
+    margin: 0;
+    overflow-x: hidden;
+    overflow-y: hidden;
+}
+
+#logo {
+    display: flex;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 2%;
+    width: 20em;
+    margin-bottom: 2%;
+}
+
+.play:hover {
+    transform: scale(1.1)
+}
+
+.hidden {
+    opacity: 0;
+    transform: scale(0.8);
+    transition: all 1s;
+}
+
+.show {
+    opacity: 1;
+    transform: scale(1);
+    transition: all 1s;
+}
+
+#footer {
+    height: 1000px;
+    margin-top: 5em;
+    color: white;
+    background-color: black;
+    padding: 30px;
+    text-align: center;
+}
+
+.game {
+    height: 31.5em;
+    width: 42em;
+}
