@@ -1,8 +1,6 @@
 @font-face {
   font-family: 'Pixellari';
-  src: url('https://github.com/aryan-madan/history-odyssey/blob/main/Pixellari.ttf') format('ttf');
-  font-weight: normal;
-  font-style: normal;
+  src: url('https://dl.dafont.com/dl/?f=pixellari');
 }
 
 body {
