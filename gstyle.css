@@ -1,10 +1,5 @@
-@font-face {
-  font-family: 'Pixellari';
-  src: url('https://dl.dafont.com/dl/?f=pixellari');
-}
-
 body {
-    font-family: 'Pixellari', sans-serif;
+    font-family: 'VT323', monospace;
     background-color: white;
     margin: 0;
     overflow-x: hidden;

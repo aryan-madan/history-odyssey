@@ -1,12 +1,5 @@
-@font-face {
-  font-family: 'Pixellari';
-  src: url('https://dl.dafont.com/dl/?f=pixellari');
-  font-weight: normal;
-  font-style: normal;
-}
-
 body {
-    font-family: 'Pixellari', sans-serif;
+    font-family: 'VT323', monospace;
     background-image: url('https://media.discordapp.net/attachments/1144514517586411582/1144517101491597322/Untitled_design_1.png');
     background-repeat: no-repeat;
     background-size: 100%, 100%;
